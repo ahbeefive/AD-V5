@@ -1,0 +1,26 @@
+{
+  "name": "mobile-ecommerce-website",
+  "version": "2.0.0",
+  "description": "Mobile-responsive e-commerce website with admin panel - Android video fix & scrollable descriptions",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "ecommerce",
+    "website",
+    "admin-panel",
+    "mobile-responsive",
+    "pwa",
+    "android-compatible",
+    "video-embed"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-repo-name.git"
+  },
+  "homepage": "https://your-project.vercel.app"
+}
